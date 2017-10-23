@@ -5,7 +5,7 @@ Thank you for the opportunity to participate in this challenge; I look forward t
 The styling for this page was produced in SASS; I used gulp locally to preview the site and compile the CSS.
 
 ### Review of the challenge
-The challenge was to create a site used on the given comps. The site was to be responsive, accessable, and created without any frameworks like Bootstrap.
+The challenge was to create a site based on the given comps. The site was to be responsive, accessible, and created without any frameworks like Bootstrap.
 
 ### Possible areas for improvement
  - Without specified hex codes and fonts I came reasonably close using online tools. Actual specs would have been preferable.
